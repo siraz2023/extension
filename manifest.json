@@ -10,15 +10,15 @@
     "action": {
       "default_popup": "popup.html",
       "default_icon": {
-        "16": "icons/dark.png",
-        "48": "icons/dark.png",
-        "128": "icons/dark.png"
+        "16": "icons/dark2.png",
+        "48": "icons/dark2.png",
+        "128": "icons/dark2.png"
       }
     },
     "icons": {
-      "16": "icons/dark.png",
-      "48": "icons/dark.png",
-      "128": "icons/dark.png"
+      "16": "icons/dark2.png",
+      "48": "icons/dark2.png",
+      "128": "icons/dark2.png"
     },
     "content_scripts": [
       {
